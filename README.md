@@ -1,3 +1,3 @@
 elxecutor
 
-learning how things work from the silicon up.
+learning how things work from silicon up
