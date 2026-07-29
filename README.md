@@ -1,4 +1,3 @@
-```
-> hey
-> I write code. It works, I guess.
-```
+elxecutor
+
+learning how things work from the silicon up.
